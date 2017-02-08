@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f852f07c-c632-4c42-b497-f9ed8294eca0" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/db153a1f-84b4-4f7f-8d00-998237aacbd0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/docker-oxid-lamp53-master.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
@@ -138,7 +133,7 @@
       <workItem from="1486478828294" duration="2820000" />
       <workItem from="1486566668924" duration="217000" />
       <workItem from="1486566901968" duration="267000" />
-      <workItem from="1486567169464" duration="166000" />
+      <workItem from="1486567169464" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="Delete code dir">
       <created>1486567277970</created>
@@ -147,11 +142,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486567277970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Delete .idea">
+      <created>1486567345808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486567345808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4400000" />
+    <option name="totallyTimeSpent" value="4441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
@@ -190,7 +192,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete code dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete code dir" />
+    <MESSAGE value="Delete .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
