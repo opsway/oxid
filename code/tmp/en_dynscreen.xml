@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<OX>
+    <OXMENU id="mxservicearea" type="dyn" url="">
+        <!-- <MAINMENU name="mxoxexchange" url="//exchange-list.oxid-esales.com/index.php?lang=de_DE&amp;edition=CE"> -->
+        <MAINMENU name="mxoxexchange" url="http://exchange.oxid-esales.com/" target="_blank">
+            <SUBMENU />
+        </MAINMENU>
+
+        <MAINMENU name="Payment">
+            <SUBMENU name="PayPal" url="//admin.oxid-esales.com/CE/4.8.4/international/en/pages/paypal/Dyn_PayPal.php" linkicon="efire" />
+        </MAINMENU>
+
+    </OXMENU>
+</OX>
