@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/docker-oxid-lamp53-master.iml" filepath="$PROJECT_DIR$/.idea/docker-oxid-lamp53-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oxid.iml" filepath="$PROJECT_DIR$/.idea/oxid.iml" />
     </modules>
   </component>
 </project>
